@@ -1,0 +1,20 @@
+#nav-list {
+    background: white;
+
+}
+
+#nav-list li {
+    border: 1px solid gray;
+    background-color: aqua;
+}
+
+.navbar-nav {
+    margin: 0px -15px;
+}
+
+
+#col {
+    background-color: blanchedalmond;
+    height: 200px;
+    height: 1000px;
+}
